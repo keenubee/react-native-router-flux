@@ -6,9 +6,9 @@
  * LICENSE file in the root directory of this source tree.
  *
  */
+import PropTypes from 'prop-types';
 import React, {
   Component,
-  PropTypes,
 } from 'react';
 import {
   Animated,
